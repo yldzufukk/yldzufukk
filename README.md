@@ -4,9 +4,9 @@
 <h2 align="right">-Ufuk Yıldız</h2></p>
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=yldzufukk&show_icons=true&theme=tokyonight" alt="yldzufukk" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=yldzufukk&show_icons=true&theme=tokyonight" alt="yldzufukk" style="margin-bottom: 5px;"/></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yldzufukk&" alt="yldzufukk" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yldzufukk&" alt="yldzufukk" style="margin-bottom: 5px;"/></p>
 
 
 <h3 align="left">Languages and Tools:</h3>

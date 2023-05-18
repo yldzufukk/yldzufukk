@@ -1,5 +1,5 @@
 <div align="center">
-   <h1>Hi there, I'm <a href="https://yldzufukk.vercel.app">Ufuk</a></h1>
+   <h1>Hi there, I'm <a>Ufuk</a></h1>
 </div>
 
 
@@ -10,7 +10,7 @@
    </h3>
    <h3 align="center">My Stats:</h3>
 <a href="https://github.com/yldzufukk">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yldzufukk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yldzufukk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yldzufukk&layout=compact&langs_count=8&theme=tokyonight"/>
 </a>
 

@@ -1,9 +1,21 @@
-<h1 align="left">👋 Hello, Welcome to my Github profile!</h1>
-<p><h2 align="left">🐱‍👤
-  Artificial Intelligence and Computer Vision Engineer </h2>
-<h2 align="right">-Ufuk Yıldız</h2></p>
+<div align="center">
+   <h1>Hi there, I'm <a href="https://yldzufukk.vercel.app">Ufuk</a></h1>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yldzufukk&" alt="yldzufukk" style="margin-bottom: 5px;"/></p>
+
+<div align="center">
+   <h3>
+   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
+   Ufuk Yıldız | 💻 Artificial Intelligence & Computer Vision Engineer | 🛸 Kocaeli , TR  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+   </h3>
+   <div>
+   <img src="https://wakatime.com/badge/user/477106b8-7784-438a-b1c9-bb2cc4fc052e.svg" />
+   </div>
+   <h3 align="center">My Stats:</h3>
+<a href="https://github.com/yldzufukk">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yldzufukk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yldzufukk&layout=compact&langs_count=8&theme=tokyonight"/>
+</a>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -11,7 +23,7 @@
    
 
 
-## Connect with me  
+### 🤝🏻 &nbsp;Connect with Me 🤝 
 <div align="center">
 <a href="https://tr.linkedin.com/in/ufuk-y%C4%B1ld%C4%B1z-504009198" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -32,3 +44,8 @@
 
 </div>  
 
+
+
+
+   
+   

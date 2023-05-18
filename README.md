@@ -5,7 +5,7 @@
 <div align="left">
    <h3>
    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
-   💻 Artificial Intelligence & Computer Vision Engineer | 🛸 Kocaeli , TR  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+    Artificial Intelligence & Computer Vision Engineer | 🛸 Kocaeli , TR  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
    </h3>
    <h3 align="right">My Stats:</h3>
 <a href="https://github.com/yldzufukk">

@@ -30,7 +30,7 @@
 </div>
 
 
-<div align="center">  <h3>Connect With Me</h3>
+<div align="center">  <h2>Connect With Me</h2>
 <a href="https://tr.linkedin.com/in/ufuk-y%C4%B1ld%C4%B1z-504009198" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>

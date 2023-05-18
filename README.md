@@ -13,12 +13,8 @@
 
 
 
-</p>
-<br />
-<br />
-<h2 align="left">🛠 Workspace Spec and Programming</h2>
-<table><tr><td valign="top" width="33%">
 
+<h2 align="left">🛠 Workspace Spec and Programming</h2>
 
 ### Languages  
 <div align="center">  

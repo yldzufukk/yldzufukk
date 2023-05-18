@@ -8,7 +8,6 @@
    </h3>
   <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yldzufukk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yldzufukk&layout=compact&langs_count=8&theme=tokyonight"/>
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=yldzufuk&theme=tokyonight&date_format=j%20M%5B%20Y%5D" />
 </a>
 
 

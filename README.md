@@ -10,7 +10,6 @@
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=yldzufukk&theme=tokyonight&date_format=j%20M%5B%20Y%5D" />
    
    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yldzufukk&theme=ayu_mirage" alt="Profil Özet Kartı">
-   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yldzufukk&theme=ayu_mirage" alt="Profili Özet Kartı">
    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yldzufukk&theme=ayu_mirage" alt="Profil Özeti Kartı">
    
 </a>

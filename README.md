@@ -9,6 +9,11 @@
   <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yldzufukk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yldzufukk&layout=compact&langs_count=8&theme=tokyonight"/>
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=yldzufukk&theme=tokyonight&date_format=j%20M%5B%20Y%5D" />
+   
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yldzufukk&theme=ayu_mirage" alt="Profil Özet Kartı">
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yldzufukk&theme=ayu_mirage" alt="Profili Özet Kartı">
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yldzufukk&theme=ayu_mirage" alt="Profil Özeti Kartı">
+   
 </a>
 
 

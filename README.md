@@ -1,5 +1,5 @@
 <div align="center">
-   <h1>👋 Hi there, I'm <a>Ufuk</a></h1>
+    <h1>Hi there, I'm <a href="https://lucky-licorice-093250.netlify.app/">Ufuk</a></h1>
 </div>
 
 <div align="center">

@@ -7,8 +7,7 @@
    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">Artificial Intelligence & Computer Vision Engineer | 🛸 Kocaeli , TR  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
    </h3>
   <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yldzufukk&layout=compact&langs_count=8&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=yldzufukk&theme=tokyonight&date_format=j%20M%5B%20Y%5D" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yldzufukk&theme=ayu_mirage" alt="Profil Özet Kartı">
+
    
 </a>
 

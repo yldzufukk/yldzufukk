@@ -8,7 +8,7 @@
    </h3>
    <div align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=yldzufukk&show_icons=true&theme=dracula" alt="Profil Özet Kartı">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yldzufukk&langs_count=8" alt="Profili Özet Kartı">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yldzufukk&layout=compact" alt="Profili Özet Kartı">
    </div>
    
    

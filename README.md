@@ -6,8 +6,11 @@
    <h3>
    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">Artificial Intelligence & Computer Vision Engineer | 🛸 Kocaeli , TR  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
    </h3>
-  (https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
-
+   <div align="center">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yldzufukk&theme=ayu_mirage" alt="Profil Özet Kartı">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yldzufukk&theme=ayu_mirage" alt="Profili Özet Kartı">
+   </div>
+   
    
 </a>
 

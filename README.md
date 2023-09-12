@@ -7,7 +7,7 @@
    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">Artificial Intelligence & Computer Vision Engineer | 🛸 Kocaeli , TR  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
    </h3>
    <div align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=yldzufukk&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Profil Özet Kartı">
+      <img src="https://github-readme-stats.vercel.app/api?username=yldzufukk&show_icons=true" alt="Profil Özet Kartı">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yldzufukk&hide_progress=falsecompact" alt="Profili Özet Kartı">
    </div>
    

@@ -39,11 +39,7 @@
 <a href="https://www.kaggle.com/ufukyldz" target="_blank">
 <img src=https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
-<a href="https://leetcode.com/yldzufuk/" target="_blank">
-<img src=https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black alt=leetcode style="margin-bottom: 5px;" />
 </a>
-<a href="https://stackoverflow.com/users/20653749/yldzufuk" target="_blank">
-<img src=https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
 
 

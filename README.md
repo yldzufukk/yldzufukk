@@ -33,7 +33,7 @@
 <a href="https://tr.linkedin.com/in/ufuk-y%C4%B1ld%C4%B1z-504009198" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.codewars.com/users/jhoffner/badges/large" target="_blank">
+<a href="https://www.codewars.com/users/yldzufuk" target="_blank">
 <img src=https://img.shields.io/badge/-Codewars-2EC866?style=for-the-badge&logo=Codewars&logoColor=white alt=Codewars style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.kaggle.com/ufukyldz" target="_blank">

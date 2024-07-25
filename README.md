@@ -1,10 +1,6 @@
 <div align="center">
-    <h1>Hi there, I'm <a href="https://ufukyildiz.netlify.app/">Ufuk</a></h1>
-</div>
-
-<div align="center">
    <h3>
-   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">Artificial Intelligence & Computer Vision Engineer | 🛸 Kocaeli , TR  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">AI Engineer | 🛸 Kocaeli , TR  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
    </h3>
    <div align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=yldzufukk&show_icons=true&theme=dracula" alt="Profil Özet Kartı">

@@ -34,7 +34,7 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.codewars.com/users/yldzufuk" target="_blank">
-<img src=https://img.shields.io/badge/-Codewars-2EC866?style=for-the-badge&logo=Codewars&logoColor=white alt=Codewars style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" />
 </a>
 <a href="https://www.kaggle.com/ufukyldz" target="_blank">
 <img src=https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />

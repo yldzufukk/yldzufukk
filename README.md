@@ -37,8 +37,8 @@
 <a href="https://tr.linkedin.com/in/ufuk-y%C4%B1ld%C4%B1z-504009198" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.hackerrank.com/yldzufukk" target="_blank">
-<img src=https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white alt=hackerrank style="margin-bottom: 5px;" />
+<a href="https://https://www.codewars.com/users/yldzufuk" target="_blank">
+<img src=https://img.shields.io/badge/-Codewars-2EC866?style=for-the-badge&logo=Codewars&logoColor=white alt=Codewars style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.kaggle.com/ufukyldz" target="_blank">
 <img src=https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />

@@ -20,7 +20,7 @@
    ### 🤝🏻 &nbsp; Connect with Me 🤝
 
    <a href="https://www.linkedin.com/in/yldzufukk/" target="_blank">
-      <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/yldzufuk/">
+      <img src="www.linkedin.com/in/yldzufuk" alt="www.linkedin.com/in/yldzufuk">
    </a>
    <a href="mailto:ufukyldz@proton.me" target="_blank">
       <img src="https://img.shields.io/badge/%20-gmail-B23121" alt="mailto:ufukyldz@proton.me">

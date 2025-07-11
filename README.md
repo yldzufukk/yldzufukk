@@ -19,7 +19,7 @@
 
    ### 🤝🏻 &nbsp; Connect with Me 🤝
 
-   <a href="https://www.linkedin.com/in/yldzufukk/" target="_blank">
+   <a href="www.linkedin.com/in/yldzufuk" target="_blank">
       <img src="www.linkedin.com/in/yldzufuk" alt="www.linkedin.com/in/yldzufuk">
    </a>
    <a href="mailto:ufukyldz@proton.me" target="_blank">

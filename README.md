@@ -5,7 +5,7 @@
 <div align="center">
    <h3>
    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
-   İbrahim Aydın | 💻 Full-Stack || AI Developer | 🛸 İstanbul, TR  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+   Ufuk Yıldız | 💻 Full-Stack || AI Developer | 🛸 Kocaeli, TR  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
    </h3>
    <h3 align="center">My Stats:</h3>
    <div align="center">

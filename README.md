@@ -16,11 +16,11 @@
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yldzufukk&theme=ayu_mirage" alt="Profili Özet Kartı">
    </div>
    
-   
+  
    ### 🤝🏻 &nbsp; Connect with Me 🤝
 
    <a href="https://www.linkedin.com/in/yldzufukk/" target="_blank">
-      <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/yldzufukk/">
+      <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt=" https://www.linkedin.com/in/ufuk-y%C4%B1ld%C4%B1z-504009198/">
    </a>
    <a href="mailto:ufukyldz@proton.me" target="_blank">
       <img src="https://img.shields.io/badge/%20-gmail-B23121" alt="mailto:ufukyldz@proton.me">
